@@ -38,8 +38,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/qrGen.git
-cd qrGen
+git clone https://github.com/shamak24/qrGen.git
 
 # Install dependencies
 npm install
