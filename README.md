@@ -45,3 +45,7 @@ npm install
 
 # Start local dev server
 npm run dev
+```
+---
+<p align="center">Made with ❤️ by Soumil Shamak 😎</p>
+
